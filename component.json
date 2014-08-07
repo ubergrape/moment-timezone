@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "moment/moment": "2.7"
+    "johntron/moment": "2.7"
   },
   "development": {},
   "license": "MIT",
