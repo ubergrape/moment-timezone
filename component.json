@@ -5,16 +5,16 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "moment/moment": "2.7"
+    "moment/moment": "2.7.0"
   },
   "development": {},
   "license": "MIT",
   "main": "index.js",
   "scripts": [
     "index.js",
-	"moment-timezone.js"
+    "moment-timezone.js"
   ],
   "json": [
-	"data/packed/latest.json"
+    "data/packed/latest.json"
   ]
 }
